@@ -1,0 +1,447 @@
+pre_post;project;commit;author;time;message
+pre;arnaudon_netsalt;1335dfa306b690f4205939fa5cdd7d73140bc024;arnaudon <alexis.arnaudon@epfl.ch>;1692360340;"fix
+"
+pre;arnaudon_netsalt;3c48f14ddcaafcf8ff62a63d221df5c8334bf944;Alexis Arnaudon <alexis.arnaudon@epfl.ch>;1692360652;"Feat: Added node loss (#23)
+
+"
+pre;arnaudon_netsalt;100ddfee93342882b057a9ccaa3efafb6ef49ab4;arnaudon <alexis.arnaudon@epfl.ch>;1692361393;"fix
+"
+pre;arnaudon_netsalt;7b0b7c4ff50554d35515302585fdebac1de5d760;arnaudon <alexis.arnaudon@epfl.ch>;1693320188;"more
+"
+pre;arnaudon_netsalt;8ae70464d18cfe9d2761334638532710136ce7e1;arnaudon <alexis.arnaudon@epfl.ch>;1693321637;"lint
+"
+pre;arnaudon_netsalt;01fc1e4c8aa9a6e5eb1233c3efdbd5c5d43e8a0b;arnaudon <alexis.arnaudon@epfl.ch>;1693905940;"more
+"
+pre;arnaudon_netsalt;43a4cf6882089dd015c456f6913c20c340c484e1;arnaudon <alexis.arnaudon@epfl.ch>;1694436083;"more
+"
+pre;arnaudon_netsalt;d850d63ba3bd4ba0a6116e680dc03308378bfcca;arnaudon <alexis.arnaudon@epfl.ch>;1694683775;"more
+"
+pre;arnaudon_netsalt;0c45720cc6d011aefd8a1e6ff9d526662f00e970;arnaudon <alexis.arnaudon@epfl.ch>;1694779339;"more
+"
+pre;arnaudon_netsalt;b7836a7ccf9ec40566823594ad5581af327c3005;Alexis Arnaudon <alexis.arnaudon@epfl.ch>;1694779345;"Merge 0c45720cc6d011aefd8a1e6ff9d526662f00e970 into 3c48f14ddcaafcf8ff62a63d221df5c8334bf944
+"
+post;arnaudon_netsalt;944a9d2aa24d223e302773ec60f3db44db3ab468;arnaudon <alexis.arnaudon@epfl.ch>;1715856717;"tmp
+"
+post;arnaudon_netsalt;86ab7ef50da94f528b348fa2d8ad9d3b67e05395;arnaudon <alexis.arnaudon@epfl.ch>;1715856892;"Fix: Assign positions for unordered nodes
+"
+post;arnaudon_netsalt;d9ccba4cf64fd3bd32e039e9d9e49aff6e8d38d8;arnaudon <alexis.arnaudon@epfl.ch>;1715858134;"fix
+"
+post;arnaudon_netsalt;84a0ed12eaa1727ad579cd802d3e98c7aa4cbb92;arnaudon <alexis.arnaudon@epfl.ch>;1715860665;"fix test
+"
+post;arnaudon_netsalt;f90140c9d27b36a0823f4c98a69f5f524d982324;arnaudon <alexis.arnaudon@epfl.ch>;1715861507;"fix
+"
+post;arnaudon_netsalt;60a826b267e645254902493af186e625195c9c03;arnaudon <alexis.arnaudon@epfl.ch>;1715861989;"test
+"
+post;arnaudon_netsalt;f3d34c284a24886cf35d4b210e8b88696cdb7470;arnaudon <alexis.arnaudon@epfl.ch>;1715862170;"test
+"
+post;arnaudon_netsalt;a10b82411a3bb37082631b2dfa13230853269737;arnaudon <alexis.arnaudon@epfl.ch>;1715863622;"fix
+"
+post;arnaudon_netsalt;77bc37425962b1cc6370d004aae84140dd862929;arnaudon <alexis.arnaudon@epfl.ch>;1715864223;"fix
+"
+post;arnaudon_netsalt;4b7ac3ffc23fba01adb2ec43a6cdd819a9f4853d;arnaudon <alexis.arnaudon@epfl.ch>;1715864633;"lint
+"
+pre;bbn-q_auspex;ae80693cefc11812a7a29ada8d72ca82999486fa;Leonardo Ranzani <leonardo.ranzani@raytheon.com>;1620311298;"Merge branch 'develop' into fix/canismajor
+
+Conflicts:
+	src/auspex/experiment.py
+	src/auspex/instruments/X6.py
+	src/auspex/instruments/agilent.py
+"
+pre;bbn-q_auspex;56aeafc2e97f47dad9627e7fdfb368329f4e3bb4;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1632347487;"Fixed typo in get_full_scale_current function
+"
+pre;bbn-q_auspex;e9763e1907546ad49210415a6b8c2f6d9999f31a;ranzani <leonardo.ranzani@gmail.com>;1632350952;"Merge pull request #496 from BBN-Q/fix/aps3-full-scale-current
+
+Fixed typo in get_full_scale_current function"
+pre;bbn-q_auspex;161bef49197c715e5d35aa20713df7e0283a1456;Graham Rowlands <grahamrow@gmail.com>;1632564877;"Merge ddb033c8e85f54c0d29490a7b73640d5c46c33af into e9763e1907546ad49210415a6b8c2f6d9999f31a
+"
+pre;bbn-q_auspex;adcd5a25e3631f6f62a102614a9dfad4e602ae58;Graham Rowlands <grahamrow@gmail.com>;1632564877;"Merge 666ff6664a6569e4b7d7007c1d9b4ff1451f1209 into e9763e1907546ad49210415a6b8c2f6d9999f31a
+"
+pre;bbn-q_auspex;b45330f7b30c8c2eafa735c9cce9b56a8a7ec87e;Matthew Ware <matthewware@users.noreply.github.com>;1632565133;"Merge e20a4386d18b1e3c97d6f37f6e6c3bcf4f4fcc2e into e9763e1907546ad49210415a6b8c2f6d9999f31a
+"
+pre;bbn-q_auspex;3203cb24207389e5876f3aaaf884c163e9831ae0;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1649082436;"Generic fixes for compatibility with APS3
+"
+pre;bbn-q_auspex;1bae2c041f7094d47ef6f9d71be14f8606db96c8;ranzani <leonardo.ranzani@gmail.com>;1649083204;"Merge pull request #497 from BBN-Q/fix/aps3
+
+Generic fixes for compatibility with APS3"
+pre;bbn-q_auspex;1db6c9298f125c85915e0262f4a071c99b105699;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1651615734;"Fixed Lecroy driver fetch waveform function data format
+"
+pre;bbn-q_auspex;147924359c864d307b196140fe8d070e02fd79fd;ranzani <leonardo.ranzani@gmail.com>;1651616062;"Merge pull request #498 from BBN-Q/fix/lecroix
+
+Fixed Lecroy driver fetch waveform function data format"
+post;bbn-q_auspex;2bbfb6e55ea76e60291aad050520195b90863f83;lranzani <leonardo.ranzani@raytheon.com>;1675523944;"Fixed various aps3 issues. Added aps3 CW generator emulation mode
+"
+post;bbn-q_auspex;68720dbf14df7bc83f7dc22f02b4b82b49a910d0;lranzani <leonardo.ranzani@raytheon.com>;1675525762;"fixed merge issue with develop
+"
+post;bbn-q_auspex;a7a9aefcce3cf573f6d3c010a99d15d7d0d64d56;lranzani <leonardo.ranzani@raytheon.com>;1675526071;"fixed merge issue with develop 2
+"
+post;bbn-q_auspex;ebd4a4a36b086928c3d7de2cffa5b1b97de1c1ec;lranzani <leonardo.ranzani@raytheon.com>;1675526222;"fixed merge issue with develop 3
+"
+post;bbn-q_auspex;e4ab631b26da02ca804e72fc39925be76738ab46;lranzani <leonardo.ranzani@raytheon.com>;1675526430;"fixed merge issue with develop 3
+"
+post;bbn-q_auspex;ed6199003b495a71a191c4aa6f925e44ad59dad7;ranzani <leonardo.ranzani@gmail.com>;1675527219;Merge branch 'develop' into fix/aps3issues
+post;bbn-q_auspex;14ee01f45f5405dc80f8ad1bf22376bdd421f9d4;ranzani <leonardo.ranzani@gmail.com>;1675527265;"Merge pull request #499 from BBN-Q/fix/aps3issues
+
+Fixed various aps3 issues. Added aps3 CW generator emulation mode"
+post;bbn-q_auspex;44f014ff044d7fac98e7fee81a8c62d4946e1487;lranzani <leonardo.ranzani@raytheon.com>;1675529646;"fixed error in write\read register
+"
+post;bbn-q_auspex;7f33a75e9837132ed27566e2eefadcfdbc1993e2;ranzani <leonardo.ranzani@gmail.com>;1675529746;"Merge pull request #500 from BBN-Q/develop
+
+Merge pull request #499 from BBN-Q/fix/aps3issues"
+post;bbn-q_auspex;7f68f19dcda4a8937a10bd52270c883f2cf63fcb;ranzani <leonardo.ranzani@gmail.com>;1675529951;"Merge pull request #501 from BBN-Q/fix/aps3issues
+
+Fix/aps3issues"
+pre;blegat_switchonsafety.jl;24287c02a1b99f9edd740721beaa790059d241f4;Benoît Legat <benoit.legat@gmail.com>;1669580313;"Add sprint_damper example
+"
+pre;blegat_switchonsafety.jl;339c505506a66df22fa9aec92a06755e09cbdefd;Benoît Legat <benoit.legat@gmail.com>;1669580355;"Add example
+"
+pre;blegat_switchonsafety.jl;33c3477926c5eabcf34125c5e1c14d24adbbe87f;zeptodoctor <44736852+zeptodoctor@users.noreply.github.com>;1669580702;"build based on f8ee6f1
+"
+pre;blegat_switchonsafety.jl;2a3e16ec74231a6e22dca395bdce4f24fedb8d4e;zeptodoctor <44736852+zeptodoctor@users.noreply.github.com>;1669580721;"build based on 2ad35c2
+"
+pre;blegat_switchonsafety.jl;944b1504f4452b5f3594d23a620306f7afb368ea;Benoît Legat <benoit.legat@gmail.com>;1671015107;"Fix typo in doc for invariant polytope
+"
+pre;blegat_switchonsafety.jl;dfaab17f4500a1e5f518ac877447315d843275f7;zeptodoctor <44736852+zeptodoctor@users.noreply.github.com>;1671015459;"build based on 9bda15b
+"
+pre;blegat_switchonsafety.jl;4535c394ba7e032c5a905e901f11e34de44d7940;Benoît Legat <benoit.legat@gmail.com>;1671056562;"Fix typo in doc for invariant polytope (#58)
+
+"
+pre;blegat_switchonsafety.jl;dd0c18930658acfbb2fc22c774fc310590397ef9;zeptodoctor <44736852+zeptodoctor@users.noreply.github.com>;1671057013;"build based on 4535c39
+"
+pre;blegat_switchonsafety.jl;f3b2fecf174bfb256a42ac3f4b3a5ead9073150b;Benoît Legat <benoit.legat@gmail.com>;1676888365;"Fix docstring of soslyapb
+"
+pre;blegat_switchonsafety.jl;401db379ff86c24a22c0780ce97a0142763e7a2e;zeptodoctor <44736852+zeptodoctor@users.noreply.github.com>;1676888831;"build based on f3b2fec
+"
+post;blegat_switchonsafety.jl;afbd0030535c159cc2c5be7807c634ee43cebf33;Benoît Legat <benoit.legat@gmail.com>;1705746598;"Update ci actions
+"
+post;blegat_switchonsafety.jl;c74842cb48838e2f507fbef44907f7026034c2d5;zeptodoctor <44736852+zeptodoctor@users.noreply.github.com>;1705746868;"build based on 578278e
+"
+post;blegat_switchonsafety.jl;67f2a86a591a17a354a674b75ff6d6091d63335e;Benoît Legat <benoit.legat@gmail.com>;1705768259;"Update ci actions (#59)
+
+"
+post;blegat_switchonsafety.jl;5da9dd748b7709a45388be9e5bc51cd47d5c5981;zeptodoctor <44736852+zeptodoctor@users.noreply.github.com>;1705768515;"build based on 67f2a86
+"
+post;blegat_switchonsafety.jl;0f1d7d231321d7d8c5cc0920cffb90e84b727f59;Benoît Legat <benoit.legat@gmail.com>;1706017333;"Merge 58edc890c6529e9646a4549c56cca198a2293586 into 67f2a86a591a17a354a674b75ff6d6091d63335e
+"
+post;blegat_switchonsafety.jl;86052ad34d4c004035f761c830ead1116dc68d6e;Benoît Legat <benoit.legat@gmail.com>;1706017333;"Merge 24287c02a1b99f9edd740721beaa790059d241f4 into 67f2a86a591a17a354a674b75ff6d6091d63335e
+"
+post;blegat_switchonsafety.jl;ced9b4bf56125061b71cf039ac05932943d4e065;Benoît Legat <benoit.legat@gmail.com>;1706017333;"Merge 339c505506a66df22fa9aec92a06755e09cbdefd into 67f2a86a591a17a354a674b75ff6d6091d63335e
+"
+post;blegat_switchonsafety.jl;8c8c2dc95498566cffb38df3ac0a26d61d107318;Benoît Legat <benoit.legat@gmail.com>;1706651672;"Update to new versions
+"
+post;blegat_switchonsafety.jl;eab0cdaf3eec1fad0fdbfba5c567aeddf281f10d;Benoît Legat <benoit.legat@gmail.com>;1706651672;"Update to new versions
+"
+post;blegat_switchonsafety.jl;9db5a5e933f0c53e71e1a97c3eb2d5bf7bc1157c;Benoît Legat <benoit.legat@gmail.com>;1706651687;"Merge eab0cdaf3eec1fad0fdbfba5c567aeddf281f10d into 67f2a86a591a17a354a674b75ff6d6091d63335e
+"
+pre;connectomicslab_connectomemapper3;12f57024236b84ba25c111d49cb6399bc87e44de;David Romascano <david.romascano@epfl.ch>;1422291178;"Fixed gradient table fitting
+"
+pre;connectomicslab_connectomemapper3;0a4098868f6ab9516d35ba8a0dcf6912a84d2147;David Romascano <david.romascano@epfl.ch>;1422639304;"Choice on interpolation method for diffusion resampling
+"
+pre;connectomicslab_connectomemapper3;1b70d791527d0f4ad8be103e3df74f7568d62ab5;David Romascano <david.romascano@epfl.ch>;1423500446;"Updated according to MITK-Diffusion-2014.10.02 release
+"
+pre;connectomicslab_connectomemapper3;e9f68453a69dd08d87333b54f84a0b0b883be2b5;David Romascano <david.romascano@epfl.ch>;1423654646;"Coordinate flipping adapted to input orientation
+"
+pre;connectomicslab_connectomemapper3;076a480962807cef771ae6564fc6d38f099c1bd4;David Romascano <david.romascano@epfl.ch>;1423657735;"Fixed orientation for proper display on Trackvis
+"
+pre;connectomicslab_connectomemapper3;35ab73014978a3427d2dbd77ca478017f1bba22c;Maxim Bulatov <dvenum.at@gmail.com>;1448583137;"Set sort_filelist attribute when DataGrabber using
+"
+pre;connectomicslab_connectomemapper3;5275907ba70b90527a2553407a6562bbdf976a76;David Romascano <david.romascano@epfl.ch>;1454331524;"Merge pull request #35 from dvenum/master
+
+New sort_filelist attribute for DataGrabber using Nipype 0.12.0"
+pre;connectomicslab_connectomemapper3;ff1d9780912966979446c8700fadf471925e69f9;David Romascano <david.romascano@epfl.ch>;1462525852;"BUG: redefinition of curvature in MRTRIX deterministic tracking and lack of gradient in SD_STREAM
+"
+pre;connectomicslab_connectomemapper3;80d8734eced80b18c50e01b9c82ceb96a88c756d;David Romascano <david.romascano@epfl.ch>;1462526182;"Merge branch 'master' of http://www.github.com/lts5/cmp_nipype
+"
+pre;connectomicslab_connectomemapper3;ff1d19f4983781fb8f42d7aef378587853b51acc;David Romascano <david.romascano@epfl.ch>;1470671471;"BF: Save CSF mask when computing Lausanne2008 parcellation (Issue#44)
+"
+post;connectomicslab_connectomemapper3;7ae0c166fca49f18e578131cdedd463449d5896c;Sebastien Tourbier <sebastien.tourbier1@gmail.com>;1498135354;"Commit of new major changes of the Connectome Mapper - Updated interfaces to MRTrix and FSL program / Adoption of BIDS for data input and output organization
+"
+post;connectomicslab_connectomemapper3;b4f2045742a7e7b0219340c5b90ddd79ef1414ee;Sebastien Tourbier <sebastien.tourbier1@gmail.com>;1498136740;"Renamed cmp_3 -> cmp3 in all files
+"
+post;connectomicslab_connectomemapper3;f5e1e63bbbc0b02bfdc32c5a5b1805220a49be1d;Sebastien Tourbier <sebastien.tourbier1@gmail.com>;1498136758;"Renamed cmp_3 -> cmp3 in all files
+"
+post;connectomicslab_connectomemapper3;2e037654ecfedcf15cb652861981b66d6d333efd;Sebastien Tourbier <sebastien.tourbier1@gmail.com>;1498136905;"Renamed cmp_3 -> cmp3 in all files
+"
+post;connectomicslab_connectomemapper3;327f1ccfc6e157ced265fb0dd3450d2f38a44ac9;Sebastien Tourbier <sebastien.tourbier1@gmail.com>;1498486095;"Added substitutions for output datanames in DataSink to comply with BIDS specifications
+"
+post;connectomicslab_connectomemapper3;28dc2dd32209299930285f26b225b8c56242e173;Sebastien Tourbier <sebastien.tourbier1@gmail.com>;1498564105;"Substitution of output filenames complying with BIDS derivatives specifications
+"
+post;connectomicslab_connectomemapper3;68917e1e6dc227fedb644cd86d4114d49ba89a23;Sebastien Tourbier <sebastien.tourbier1@gmail.com>;1498570997;"Change in .gitignore - ignore build/lib folder
+"
+post;connectomicslab_connectomemapper3;30b28f70ed98b6f2f0e9f22e2f2ba82c75b95d69;Sebastien Tourbier <sebastien.tourbier1@gmail.com>;1498571023;"Change in .gitignore - ignore build/lib folder
+"
+post;connectomicslab_connectomemapper3;206fa8de21e31143a6555e4e4269ac6edc3d1f75;Sebastien Tourbier <sebastien.tourbier1@gmail.com>;1498660788;"Refactored code to support current release of Nipype
+"
+post;connectomicslab_connectomemapper3;cd3061a26d54ee3eab117337bdcc3a2611bfe82d;Sebastien Tourbier <sebastien.tourbier1@gmail.com>;1498669615;"fixes
+"
+pre;havakv_pycox;982f79ec51212efcbbc936f8eb1f92d4115f4bf4;Bardia Khosravi <bardiakhosravi95@gmail.com>;1642792879;"Update loss.py
+"
+pre;havakv_pycox;b54a5fec56da71346fc7efc1e4fe84e583082de0;Bardia Khosravi <bardiakhosravi95@gmail.com>;1642792884;"Merge 982f79ec51212efcbbc936f8eb1f92d4115f4bf4 into 0e9d6f9a1eff88a355ead11f0aa68bfb94647bf8
+"
+pre;havakv_pycox;ded8c4c67e8425c9d907f7f53f3898bcba1735bd;Sergiogvz <gonzalez-vazquez.sergio@inventec.com>;1662521986;"fix: fixing the part3 of the nll loss parametrized with PMF
+"
+pre;havakv_pycox;90593a38153823ba7de8fb40e257eeff341a19a0;pooya-mohammadi <pooyamohammadikazaj@gmail.com>;1668538391;"Change is not to !=
+"
+pre;havakv_pycox;a34d198fb3378cb8138e9994c6ab9e6ab0e903f5;pooya-mohammadi <pooyamohammadikazaj@gmail.com>;1677281617;"[loss] Fix float16 scatter issue
+"
+pre;havakv_pycox;a4d2bb09d7b0e5c1cc37a27f36d7645b7d66541a;Pooya Mohammadi Kazaj <pooyamohammadikazaj@gmail.com>;1677281623;"Merge a34d198fb3378cb8138e9994c6ab9e6ab0e903f5 into 0e9d6f9a1eff88a355ead11f0aa68bfb94647bf8
+"
+pre;havakv_pycox;ac8771f0c63358b0479a1ed24526607d8c07f216;Matteo Fordiani <71652886+matteo4diani@users.noreply.github.com>;1682253622;"Use is_monotonic_increasing to allow Pandas 2.0
+
+Use is_monotonic_increasing (instead of is_monotonic) for Pandas 2.0 compatibility, without breaking backward compatibility with 1.5."
+pre;havakv_pycox;c26b9c65e27e9a4f04192dacf4f1454d269b0850;Hoang M. Le <hminle@yorku.ca>;1692845092;"Update eval_surv.py
+
+update eval_surv for pandas 2.0"
+pre;havakv_pycox;4cd5c0012034c9b60f13cd4e73847690eec9d517;Hoang M. Le <hminle@yorku.ca>;1692845247;"Merge pull request #1 from hminle/hminle-patch-1
+
+Update eval_surv.py"
+pre;havakv_pycox;15aafaac650c1ae62ffd3da537b45f95bda3b3a3;Hoang M. Le <hminle@yorku.ca>;1692845387;"Merge 4cd5c0012034c9b60f13cd4e73847690eec9d517 into 0e9d6f9a1eff88a355ead11f0aa68bfb94647bf8
+"
+post;havakv_pycox;4bafbe0f43424114441f42c2d815a398bd233740;haavard <haavard.kvamme@gmail.com>;1725276848;"Update python version
+"
+post;havakv_pycox;8e8370d516be21dceacaf0a90575093b17c4f8a7;haavard <haavard.kvamme@gmail.com>;1725278086;"Fix items and monotonic increasing
+"
+post;havakv_pycox;a444bc7dfcd49121662372c06534795fc9663bf3;haavard <haavard.kvamme@gmail.com>;1725281356;"Cannot fillna for integer type
+"
+post;havakv_pycox;842403b54e5f317f8b50665ef2365c9d810944f4;haavard <haavard.kvamme@gmail.com>;1725281824;"Update torch version
+"
+post;havakv_pycox;2f1a45b1fdb8808213ee7880fcb21fb772b30842;haavard <haavard.kvamme@gmail.com>;1725285051;"Fix version bug
+"
+post;havakv_pycox;9bfa885007a241eee41638da6849ce32afa45285;haavard <haavard.kvamme@gmail.com>;1725453131;"Bump version: 0.2.3 → 0.3.0
+"
+post;havakv_pycox;f63e582b1b0ff36bf30b7f083020eb93e968a311;Håvard Kvamme <haavard.kvamme@gmail.com>;1725455909;"Merge pull request #180 from havakv/update-ci
+
+Update python version"
+post;havakv_pycox;9bf50790b7817bae1f0c51ef13f204a38e54b754;haavard <haavard.kvamme@gmail.com>;1725458554;"Update package publishing
+"
+post;havakv_pycox;3eccdd7fd9844a060f50fdcc315659f33a2d2dc1;Håvard Kvamme <haavard.kvamme@gmail.com>;1725461343;"Merge pull request #181 from havakv/update-package-publishing
+
+Update package publishing"
+post;havakv_pycox;16ed2335ee244808161193010bd4cff93518b6f0;Pooya Mohammadi Kazaj <pooyamohammadikazaj@gmail.com>;1726254740;"Merge a34d198fb3378cb8138e9994c6ab9e6ab0e903f5 into 3eccdd7fd9844a060f50fdcc315659f33a2d2dc1
+"
+pre;matsengrp_transport;7856fecb1a7f33be7f22908f84b02bd1837ce66e;Erick Matsen <ematsen@gmail.com>;1640023244;".md formatting...
+"
+pre;matsengrp_transport;ed2eae34d0e70bea831d6a7672b4eecf43b6cced;phbradley <pbradley@fhcrc.org>;1655427948;"Trying a spike-in calculation to see how well loneliness picks out epitope-specific TCRs; also fiddling with the old mouse tree plotting code
+"
+pre;matsengrp_transport;b0298c1cebe3db0403c04f88d626563549f3cc86;Erick Matsen <ematsen@gmail.com>;1661362421;fixing typo in README
+pre;matsengrp_transport;164a252c3a45076c5ffef5b458901c53b600bb30;phbradley <pbradley@fhcrc.org>;1662390027;"save some WIP prior to rearranging
+"
+pre;matsengrp_transport;c76bc75cc20473be93bd032006f9b833fa29cb39;phbradley <pbradley@fhcrc.org>;1662495911;"cleaned up versions of python code for spike-in and tree making
+"
+pre;matsengrp_transport;255e56d137f814856f49bb6c8d37991c22c56b78;phbradley <pbradley@fhcrc.org>;1662496007;"remove the old IELS distances results logfile
+"
+pre;matsengrp_transport;cab6a23c1bd0552e5aadc80eb34523ab965dac8f;phbradley <pbradley@fhcrc.org>;1662496028;"Merge branch 'main' of https://github.com/matsengrp/transport into main
+"
+pre;matsengrp_transport;2ea7b1d3603997b6a101edb584b6c98999efc240;phbradley <pbradley@fhcrc.org>;1662496277;"add README deprecating phb_analyses
+"
+pre;matsengrp_transport;fdb6854cede843755db821be5033d1da89c1d571;phbradley <pbradley@fhcrc.org>;1662496548;"add a README for spike-in-and-tree
+"
+pre;matsengrp_transport;0fb2a0efb92da0f8dd1e570c82a762692490af5f;phbradley <pbradley@fhcrc.org>;1662504864;"fix silly typos in one of the new READMEs
+"
+post;matsengrp_transport;5354b8a20f1d9a1034055521c8041e3d16cd32ab;Erick Matsen <ematsen@gmail.com>;1724504919;Update README.md with link to IRtransport
+pre;pythonot_pot;d4847a8c52c09319d751e2c7d29617398b08bae7;Rémi Flamary <remi.flamary@gmail.com>;1539610247;"Merge pull request #68 from kilianFatras/stochastic_OT
+
+[MRG] fixed doc for stochastic and plot_stochastic"
+pre;pythonot_pot;47daf05106a99b8e1278e1b77328e9e4542c0c32;Nicolas Courty <ncourty@irisa.fr>;1539944842;"add -tdlib=libc++ argument
+
+"
+pre;pythonot_pot;0702dbccf08d333b668aeab5621a2db0c8d33deb;Nicolas Courty <ncourty@irisa.fr>;1539990701;"
+
+platform dependant check"
+pre;pythonot_pot;15a062d55ad5a14d351a4f0c57d4d7359011f510;Nicolas Courty <ncourty@irisa.fr>;1539990991;"forgot a '-'
+
+"
+pre;pythonot_pot;f9995cf190b908933d6ababa2eb2bbf46431f997;aboisbunon <aboisbunon@users.noreply.github.com>;1540212051;"Corrected the Sinkhorn prediction images
+
+The prediction images for Sinkhorn used the ot_emd object instead of ot_sinkhorn"
+pre;pythonot_pot;c26314937affdb648bcc2314a302332d21b9de27;Rémi Flamary <remi.flamary@gmail.com>;1540284493;"Merge pull request #73 from aboisbunon/color_tranfer_bug_correction
+
+Corrected the Sinkhorn prediction images"
+pre;pythonot_pot;c48be436f984eba910b838c1586a208e3fe3d91f;Rémi Flamary <remi.flamary@gmail.com>;1540284557;"Merge pull request #72 from rflamary/osx-issue
+
+add -tdlib=libc++ argument"
+pre;pythonot_pot;93db239e1156ad1db8edbb13c1ecde973ce009c0;Rémi Flamary <remi.flamary@gmail.com>;1542622627;"remove W605 errors
+"
+pre;pythonot_pot;de04afc0f9f01fc09a3a8138865eacc0b6f4415d;Rémi Flamary <remi.flamary@gmail.com>;1542622709;"update flake8 parameters
+"
+pre;pythonot_pot;90d04e0f9a3e70d76c9a42b9bbc9c6f6a168269c;Rémi Flamary <remi.flamary@gmail.com>;1542622717;"Merge branch 'master' of github.com:rflamary/POT
+"
+post;pythonot_pot;42a501c5d839c010bbfa3a4440b43cb4f9775fc7;Rémi Flamary <remi.flamary@gmail.com>;1552297143;"add test sinkhorn+log
+"
+post;pythonot_pot;fea0c38c4260788c0359547f7caf75a3d92a2b42;Rémi Flamary <remi.flamary@gmail.com>;1552297870;"pytest-cov workaronud
+"
+post;pythonot_pot;e757b75976ece1e6e53e655852b9f8863e7b6f5a;Rémi Flamary <remi.flamary@gmail.com>;1552319997;"Merge pull request #76 from rflamary/bug_log_greenkhorn
+
+Bug Greenkhorn with log=True
+
+closes Issue #75 "
+post;pythonot_pot;950efdc2644880fff9119e18f66e9825678fefcb;vfdev-5 <vfdev.5@gmail.com>;1552400777;"Minor typo fix in examples. Fixes #77
+"
+post;pythonot_pot;e57f41a9f6942ef2d18fde214b90c5dee57e5c8d;Rémi Flamary <remi.flamary@gmail.com>;1552555599;"Merge pull request #78 from vfdev-5/issue_77
+
+Minor typo fix in examples. Fixes #77"
+post;pythonot_pot;9cd97796797b9b2853c6458a7f4e9347bb212978;Rémi Flamary <remi.flamary@gmail.com>;1552647370;"update notebooks and documentation
+"
+post;pythonot_pot;325f02ccdb2718d84283076bebb7c6a2f1e99e52;Rémi Flamary <remi.flamary@gmail.com>;1552647402;"update notebooks
+"
+post;pythonot_pot;b7df4fbbb54eba6a797c6b8f0d57bda7db8e4177;Rémi Flamary <remi.flamary@gmail.com>;1552647425;"correction doc in gromov.py
+"
+post;pythonot_pot;2384380536e3cc405e4db9f4b31cb48d309f257c;Rémi Flamary <remi.flamary@gmail.com>;1553175896;"Merge pull request #79 from rflamary/update_doc
+
+Update doc + notebooks"
+post;pythonot_pot;a2545b5a503c95c9bf07948929b77e9c3f4f28d3;Kilian Fatras <kilianfatras@Kilians-MacBook-Air.local>;1553859703;"add empirical sinkhorn and sikhorn divergence functions
+"
+pre;salan668_fae;686ecb992a725eda55621edadddf69ea50955793;zhangjingmri <798582238@qq.com>;1581416458;"Merge remote-tracking branch 'origin/master'
+
+"
+pre;salan668_fae;f3346c7e536db4aaf4d83cc8a52bd39b80b6cf26;zhangjingmri <798582238@qq.com>;1581655388;"Feature number axis optimization
+
+delete adjacent coordinate of candidate feature member "
+pre;salan668_fae;85008d0f99097d6267478f18218802e528ccdb9f;zhangjingmri <798582238@qq.com>;1581655843;"Remove statistic
+
+"
+pre;salan668_fae;c245a1d525293e339f150eccba3d0b021835524b;zhangjingmri <798582238@qq.com>;1581655998;"Repair
+
+"
+pre;salan668_fae;d9545908c9dfe2ab162a667f4d830a65ab81fa97;zhangjingmri <798582238@qq.com>;1581656128;"Repair
+
+"
+pre;salan668_fae;10fb2349d7379f7eaf89dd02b725c87d475f7e5e;zhangjingmri <798582238@qq.com>;1581761816;"Add Test curve
+
+"
+pre;salan668_fae;13cf19ec0c137009f96edeab169c75fa5e33455d;zhangjingmri <798582238@qq.com>;1581764358;"updatet pyradiomics
+
+"
+pre;salan668_fae;6876428a250181bea6e14f919ce58ad42954c7de;zhangjingmri <798582238@qq.com>;1581764453;"axes.show
+
+"
+pre;salan668_fae;f2fe206c8eb443399f2721e1b91aa3abe5d9717a;zhangjingmri <798582238@qq.com>;1581764525;"axes.show
+
+"
+pre;salan668_fae;c3c61ec40cacccd6a359b5c30f002d9b4aa13c2e;Suns <songyangmri@gmail.com>;1581781437;"Merge pull request #53 from zhangjingcode/master
+
+test button and feature number curve optimization"
+post;salan668_fae;3cbc336b3ecb047481fd1da5212ad54ddf47f69c;Y.S XPS-9570 <songyangmri@gmail.com>;1589529150;"Update FAE Version 3.
+"
+post;salan668_fae;fa4648156c7f30f99b68b35265f069e8ac94ce67;Y.S XPS-9570 <songyangmri@gmail.com>;1589939519;"Add SmoteTomek method to balance the data set.
+"
+post;salan668_fae;89ca33bc6c920df9d14f9f2ff302b6fe6af85bcd;Y.S XPS-9570 <songyangmri@gmail.com>;1590473529;"Add GetInvalidFrame function.
+"
+post;salan668_fae;a941443f99d4ba6810d15159e554a720f4fb993e;Y.S XPS-9570 <songyangmri@gmail.com>;1590479495;"Implement the UI of Remove invalid features in Prepare.
+"
+post;salan668_fae;b95cb605b904643d91c2f95e4f4dce805f69cc89;Y.S XPS-9570 <songyangmri@gmail.com>;1590480103;"Remove the py files generated from the corresponding .ui files
+"
+post;salan668_fae;cf87ac5e700daca372f08642fd2f01776eb237bd;Y.S XPS-9570 <songyangmri@gmail.com>;1590480218;"Ignore the py files generated by the ui file
+"
+post;salan668_fae;1f3df51277a1046c5e515b48fee3b24e0cc258c6;Y.S XPS-9570 <songyangmri@gmail.com>;1590481876;"Release 0.3.4.
+"
+post;salan668_fae;0fb166e8e3294361984ae7f8ce363b9e6b3706dd;Y.S XPS-9570 <songyangmri@gmail.com>;1590546330;"Fix the bug of Data Prepare
+"
+post;salan668_fae;aeada6c8cf0daa3f782e1bd6d588ae2c5b75e07b;Y.S XPS-9570 <songyangmri@gmail.com>;1590550226;"Add the config files for the setting of random state.
+"
+post;salan668_fae;b714f88990587647caedc15a00402ffa731e31ce;Y.S XPS-9570 <songyangmri@gmail.com>;1590550751;"Add example of config file of RandomSeed
+"
+pre;seung-lab_igneous;ad337b922a804073d2f62c890f5db318e664eeaa;Ran Lu <ranl@princeton.edu>;1689813287;"Add a frag_path parameter to save frag files somewhere else
+
+To create shard files, we at least have to read each segment once. With
+billions of segments this can be significant. Add a frag_path parameter
+so we can save the fragment files locally or somewhere the read requests
+are cheap.
+"
+pre;seung-lab_igneous;3acdb4baee502e28e2598af64730560e40c0fbf4;William Silversmith <william.silversmith@gmail.com>;1689823588;"fix(image/xfer): cutout for unsharded
+
+refactor(image/xfer): common logic for shared and unsharded cv crt
+"
+pre;seung-lab_igneous;e3c51ba8a3d544b10f74a73165122f356e859cb4;William Silversmith <william.silversmith@gmail.com>;1689825390;"fix: using the right variable name for shards
+"
+pre;seung-lab_igneous;485213a09c5d29340f64549213c9610d75da40a1;William Silversmith <william.silversmith@gmail.com>;1690123824;"fix: default value for bounds.minpt
+"
+pre;seung-lab_igneous;7a3b6330fc996faf076fd2e93edadd367d644d37;Nico Kemnitz <nico@zetta.ai>;1690126038;"Merge 19123aa3c3a2545aa2c81f0ce20821e3c6ecb97e into 485213a09c5d29340f64549213c9610d75da40a1
+"
+pre;seung-lab_igneous;0057e0c27b76ef00dbcc09d7324b5749c9cc3a97;William Silversmith <william.silversmith@gmail.com>;1690321157;"perf: add direct transfer feature to shard transfer
+"
+pre;seung-lab_igneous;bdc9e351b62b74858dc7fb35291f4b448ae8b70b;William Silversmith <william.silversmith@gmail.com>;1690395299;"fix: remove debugging statement
+"
+pre;seung-lab_igneous;9be7372cc1f95da7778d09726ecf29582ba3c044;Ran Lu <ranl@princeton.edu>;1690405354;"Add a cache option to control CloudVolume cache behavior
+
+Cache is disabled by default
+"
+pre;seung-lab_igneous;4a974f339ffa4e8b13ba7529d089408b93133ed7;ranlu <ranlu@users.noreply.github.com>;1690427588;"Reduce read requests when creating sharded skeletons and meshes (#156)
+
+* Cache spatial info files
+
+Because igneous download all spatial info file for every tasks, with
+fixed number of segments per shard, the downloading request grows
+quadratically with volume. This can blow up the cost for large dataset
+if we are charged for read operations. Cache it so it only grows
+linearly with volume.
+
+* Add a frag_path parameter to save frag files somewhere else
+
+To create shard files, we at least have to read each segment once. With
+billions of segments this can be significant. Add a frag_path parameter
+so we can save the fragment files locally or somewhere the read requests
+are cheap.
+
+* Add a cache option to control CloudVolume cache behavior
+
+Cache is disabled by default"
+pre;seung-lab_igneous;2eccf80825487b4dad3246f237ee743a1ad812d7;William Silversmith <william.silversmith@gmail.com>;1690471898;"fix: pass cache parameter to ShardedSkeletonMergeTask
+"
+post;seung-lab_igneous;1085c6e7c18daf1a9f8ad7e57284e70bb7c06299;Alex Bae <shighnealex@gmail.com>;1694556281;"skeletonization when resolution is non-integer value
+"
+post;seung-lab_igneous;452c6de32a94547676c17326c9af054b3985d0e5;Alex Bae <shighnealex@gmail.com>;1694567391;"fix: skeletonization when resolution is non-integer value (#158)
+
+"
+post;seung-lab_igneous;46e88748f38326cf100c8f445d7f5f6f31612861;William Silversmith <william.silversmith@gmail.com>;1695849212;"fix: accomodate offset volumes for shard transfer
+"
+post;seung-lab_igneous;890102d0100c9a78f6ddff090eb18ab58d861931;William Silversmith <william.silversmith@gmail.com>;1695849234;"Merge branch 'master' of github.com:seung-lab/igneous
+"
+post;seung-lab_igneous;e21661a55abbab7784b3baa7a5b3ab7692523196;William Silversmith <william.silversmith@gmail.com>;1696284149;"release(4.19.3): float res, performance enhancements, fix shard imgs
+"
+post;seung-lab_igneous;4021264f785de19e7975af7b96fa55b8405f01b4;William Silversmith <william.silversmith@gmail.com>;1696367052;"chore: update authors
+"
+post;seung-lab_igneous;66f86b36aee13525f8456e10b96bb14dc6ea7ee7;William Silversmith <william.silversmith@gmail.com>;1696367066;"feat: add memory_target to unsharded downsample
+"
+post;seung-lab_igneous;ee15a88d6c19f60b4dfb68ed192010ff3bf0866b;William Silversmith <william.silversmith@gmail.com>;1696368867;"fix: no reference to sharding in the unsharded function
+"
+post;seung-lab_igneous;3fd4dbc96e6cd6196bb5de417f2bb232b683f17f;William Silversmith <william.silversmith@gmail.com>;1697484991;"fix: num_mips should be interpreted as an int
+"
+post;seung-lab_igneous;ca8396ceb3857bf8a43e21145410c2540e9555c9;William Silversmith <william.silversmith@gmail.com>;1697485026;"release(4.20.1): fixes type of num_mips
+"
+pre;vsamy_copra;3108f26ea639a837f792260764ae069069bea069;Niels Dehio <niels.dehio@mailbox.org>;1641835981;"extend functionality for evaluating a particular (maybe non-optimal) control vector: costs with method getCostValue(), constraints with method isSatisfied(), previewsystem with method computeTrajectory()
+"
+pre;vsamy_copra;6ad8a99c24ecca11289e0e3f9c6fb1d72ff93543;Pierre Gergondet <pierre.gergondet@gmail.com>;1661842207;"[ci] Replace xenial build with a focal build
+"
+pre;vsamy_copra;8c80717a566c9f0755d81353706aadc3acc0172c;ndehio <niels.dehio@mailbox.org>;1661842216;"Merge 6ad8a99c24ecca11289e0e3f9c6fb1d72ff93543 into 2662c567491690f145834aa8b95339cec3a8bb11
+"
+pre;vsamy_copra;590ed1887e935d2888c4c27c2457c7546b22ef5d;Pierre Gergondet <pierre.gergondet@gmail.com>;1685670387;"[ci] Enable pre-commit and setup Jammy packaging
+"
+pre;vsamy_copra;770375991044bbbca0242022b113107e3c9555d8;JRL/IDH Continuous Integration Tool <jrl-idh+ci@gmail.com>;1685670616;"Update HEAD Doxygen documentation.
+Source commit id: 590ed1887e935d2888c4c27c2457c7546b22ef5d
+"
+pre;vsamy_copra;d41dd2177e7798995c993a9798e86b2dde0a51ab;Pierre Gergondet <pierre.gergondet@gmail.com>;1685671117;"[tests] Update to doctest v2.4.11
+"
+pre;vsamy_copra;9615ec345e37c73bda10ee0435aa4b32fe4a50c0;Pierre Gergondet <pierre.gergondet@gmail.com>;1685671318;"[cmake] Update submodule
+"
+pre;vsamy_copra;5138aa22f7c5c5fd2681461f00f9655024cfd999;JRL/IDH Continuous Integration Tool <jrl-idh+ci@gmail.com>;1685671638;"Update HEAD Doxygen documentation.
+Source commit id: 9615ec345e37c73bda10ee0435aa4b32fe4a50c0
+"
+pre;vsamy_copra;048fa965a13a4d3dbb9d87cfa800eda08c999e5d;Pierre Gergondet <pierre.gergondet@gmail.com>;1685671744;"[debian] Fix cmake files' path
+"
+pre;vsamy_copra;b67d3b2b160fc25a910bd9c2241f25d19f06df32;Pierre Gergondet <pierre.gergondet@gmail.com>;1686629483;"Release 1.3.1
+
+Minor release for Jammy
+"
+post;vsamy_copra;917b6600c99ec6ebaa35083503d298617a3a2c71;Arnaud TANGUY <arn.tanguy@gmail.com>;1749048661;"chore: upgrade min cmake version
+"
+post;vsamy_copra;3ef24dd1b8b1c109af8d2301581765dacb1d7017;ThomasDuvinage <toto.duvinage@gmail.com>;1753235099;"fix(ci): remove ubuntu 20.04 tests, add noble package, install fortran via gcc brew
+"
+post;vsamy_copra;9f9de12506784c10b5643fd42f1b2fc6a240c08b;ThomasDuvinage <toto.duvinage@gmail.com>;1753235222;"ci(tests): add ubuntu 24.04 tests
+"
+post;vsamy_copra;27a2761889273cfe7d35d3e17e31c0f0fdc8c674;JRL/IDH Continuous Integration Tool <jrl-idh+ci@gmail.com>;1753235264;"Update HEAD Doxygen documentation.
+Source commit id: 3ef24dd1b8b1c109af8d2301581765dacb1d7017
+"
+post;vsamy_copra;19c4b12af0c292fe48ae0d189669b55d2226cba2;ThomasDuvinage <toto.duvinage@gmail.com>;1753235533;"doc(readme): add new available os version
+"
+post;vsamy_copra;f5f117d522c720576200b5fe55e783983cb9d2cc;ThomasDuvinage <toto.duvinage@gmail.com>;1753237340;"Release v1.3.2
+"
